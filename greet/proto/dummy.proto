@@ -1,5 +1,0 @@
-syntax = "proto3";
-
-package greet;
-
-option go_package = "github.com/flpcastro/grpc-go/greet/proto";
